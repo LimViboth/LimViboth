@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **limvibothjr@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
