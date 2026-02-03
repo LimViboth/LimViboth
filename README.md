@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viboth</h1>
 <h3 align="center">Passionate About Data, AI, and Machine Learning</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning and NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LimViboth](https://github.com/LimViboth)
 
